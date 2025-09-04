@@ -9,9 +9,11 @@ Grupo conformado por 5 estudiantes de segundo ciclo de la carrera de Ingeniería
 
 # 📝 ¡CONÓCENOS!  
 ### 1. Fathyma Ennnidh Rojas Salazar
-Aportes en el grupo: Actualizaciones constantes, motivación y conservación de ambiente positivo, resolución de tareas de último momento, diseños visuales, redacción
+**Emphasis** Aportes en el grupo: 
+Actualizaciones constantes, motivación y conservación de ambiente positivo, resolución de tareas de último momento, diseños visuales, redacción
 ### 2. Mariana Rocío Sanchez Saavedra
-Aportes en el grupo: Redacción, tareas organizativas o analíticas, diseño de soluciones, resolución de problemas
+**Emphasis** Aportes en el grupo: 
+Redacción, tareas organizativas o analíticas, diseño de soluciones, resolución de problemas
 ### 3. Ariana Alessandra Munguia Avila
 
 ### 4. Jahaira Q’uorianka Castro Huarsocca
