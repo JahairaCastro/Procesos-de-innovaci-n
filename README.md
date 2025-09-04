@@ -1,4 +1,4 @@
-# GRUPO 2
+# 🦾⚙️ GRUPO 2 
 ![Caratula](Imágenes/Biomakers.jpg)
 
 # 🖊 DESCRIPCIÓN DEL GRUPO
@@ -8,10 +8,10 @@ Grupo conformado por 5 estudiantes de segundo ciclo de la carrera de Ingeniería
 ![Foto Grupal](Imágenes/IMG-20250901-WA0047.jpg)
 
 # 📝 ACERCA DE LOS INTEGRANTES  
-## 1. Ariana Alessandra Munguia Avila
-## 2. Isabel Angeles Gomez Vargas
-## 3. Jahaira Q’uorianka Castro Huarsocca
-## 4. Fathyma Ennidh Rojas Salazar
-## 5. Mariana Rocío Sanchez Saavedra
+### 1. Ariana Alessandra Munguia Avila
+### 2. Isabel Angeles Gomez Vargas
+### 3. Jahaira Q’uorianka Castro Huarsocca
+### 4. Fathyma Ennidh Rojas Salazar
+### 5. Mariana Rocío Sanchez Saavedra
 
 # ✨️ Gracias por visitar nuestro repositorio
