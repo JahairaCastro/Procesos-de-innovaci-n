@@ -1,2 +1,2 @@
-# GRUPO 1 - BIOMAKERS
+# GRUPO 2 - BIOMAKERS
 Clase de Cayetano
