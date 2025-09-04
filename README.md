@@ -8,21 +8,21 @@ Grupo conformado por 5 estudiantes de segundo ciclo de la carrera de Ingeniería
 ![Foto grupal](Imágenes/Grupal.jpg)
 
 # 📝 ¡CONÓCENOS!  
-### 1. Fathyma Ennnidh Rojas Salazar
+### 1. Fathyma Rojas
 ![Foto grupal](Imágenes/Fathyma.jpg)
 **Aportes en el grupo:** Actualizaciones constantes, motivación y conservación de ambiente positivo, resolución de tareas de último momento, diseños visuales, redacción
 
-### 2. Mariana Rocío Sanchez Saavedra
+### 2. Mariana Sanchez
 ![Foto grupal](Imágenes/Mariana.jpg)
 **Aportes en el grupo:** Redacción, tareas organizativas o analíticas, diseño de soluciones, resolución de problemas
 
-### 3. Ariana Alessandra Munguia Avila
+### 3. Ariana Munguía
 **Aportes en el grupo:**
 
-### 4. Jahaira Q’uorianka Castro Huarsocca
+### 4. Jahaira Castro
 **Aportes en el grupo:**
 
-### 5. Isabel Angeles Gomez Vargas
+### 5. Isabel Gomez
 **Aportes en el grupo:**
 
 # ✨️ Gracias por visitar nuestro repositorio
