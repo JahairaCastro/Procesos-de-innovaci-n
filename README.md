@@ -1,2 +1,7 @@
 # GRUPO 2 - BIOMAKERS
-Clase de Cayetano
+(carátula)
+# DESCRIPCIÓN DEL GRUPO
+(descripción)
+# INTEGRANTES 
+(foto)
+# ACERCA DE LOS INTEGRANTES
