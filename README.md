@@ -1,2 +1,2 @@
-# Procesos de innovación / GRUPO 1
+# GRUPO 1 - BIOMAKERS
 Clase de Cayetano
