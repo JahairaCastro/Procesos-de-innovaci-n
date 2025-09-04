@@ -1,2 +1,2 @@
-# Procesos-de-innovaci-n
+# Procesos de innovación / GRUPO 1
 Clase de Cayetano
