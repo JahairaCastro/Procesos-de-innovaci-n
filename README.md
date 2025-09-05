@@ -21,6 +21,7 @@ Grupo conformado por 5 estudiantes de segundo ciclo de la carrera de Ingeniería
 **Aportes en el grupo:** Búsqueda de repositorios, investigación y proactividad al realizar trabajos, comunicaciones
 
 ### 4. Jahaira Castro
+![Foto Ariana](Imágenes/Jahaira.jpg)
 **Aportes en el grupo:** Pensamiento crítico para analizar y resolver problemas, liderazgo y organización en proyectos, experiencia en investigación, diseño 3D y dibujo
 
 ### 5. Isabel Gomez
